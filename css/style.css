@@ -1,13 +1,17 @@
-main {
-    text-align: center;
+body{
+    background-color: rgb(99, 10, 84);
 }
+    
+main{
+    text-align: center;
 
-.tabuleiro div input {
-    width: 100px;
-    height: 100px;
+}
+.tabuleiro div input{
+    width: 130px;
+    height: 130px;
     margin: 5px;
     border: 1px solid gray;
-    border-radius: 6px;
+    border-radius: 20px;
     font-size: 30px;
     cursor: pointer;
 }
